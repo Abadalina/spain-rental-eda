@@ -108,6 +108,7 @@ jupyter notebook notebooks/01_eda_madrid_airbnb.ipynb
 | 3 | [rental-price-forecast](https://github.com/Abadalina/rental-price-forecast) | Time series forecasting |
 | 4 | [airbnb-reviews-nlp](https://github.com/Abadalina/airbnb-reviews-nlp) | NLP sentiment & topic analysis |
 | 5 | [housing-price-app](https://github.com/Abadalina/housing-price-app) | Streamlit deployment |
+| 6 | [spain-airbnb-dashboard](https://github.com/Abadalina/spain-airbnb-dashboard) | Live market dashboard |
 
 ---
 
