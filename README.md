@@ -49,7 +49,7 @@ Data comes from **[Inside Airbnb](http://insideairbnb.com/get-the-data/)**, an i
 
 ```bash
 # Clone the repository
-git clone https://github.com/alejandroabadal/spain-rental-eda.git
+git clone https://github.com/Abadalina/spain-rental-eda.git
 cd spain-rental-eda
 
 # Create a virtual environment
