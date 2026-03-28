@@ -99,10 +99,22 @@ jupyter notebook notebooks/01_eda_madrid_airbnb.ipynb
 
 ---
 
+## Part of the Madrid Housing Portfolio
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | **spain-rental-eda** | Exploratory data analysis ← you are here |
+| 2 | [housing-price-ml](https://github.com/Abadalina/housing-price-ml) | ML price prediction |
+| 3 | [rental-price-forecast](https://github.com/Abadalina/rental-price-forecast) | Time series forecasting |
+| 4 | [airbnb-reviews-nlp](https://github.com/Abadalina/airbnb-reviews-nlp) | NLP sentiment & topic analysis |
+| 5 | [housing-price-app](https://github.com/Abadalina/housing-price-app) | Streamlit deployment |
+
+---
+
 ## Author
 
 **Alejandro Abadal** — Data Science Student, UOC
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](#) · [GitHub](https://github.com/Abadalina)
 
 ---
 
